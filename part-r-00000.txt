@@ -1,0 +1,103 @@
+Albuquerque	1.0032381E7
+Anaheim	1.0056667E7
+Anchorage	9913824.0
+Arlington	1.0052276E7
+Atlanta	9977252.0
+Aurora	9973227.0
+Austin	1.0037103E7
+Bakersfield	1.0011293E7
+Baltimore	1.0076581E7
+Baton Rouge	1.0111306E7
+Birmingham	1.0056691E7
+Boise	1.0019296E7
+Boston	1.0019417E7
+Buffalo	9982114.0
+Chandler	9899882.0
+Charlotte	1.0092488E7
+Chesapeake	1.0018549E7
+Chicago	1.004262E7
+Chula Vista	9955045.0
+Cincinnati	1.011954E7
+Cleveland	1.0047877E7
+Colorado Springs	1.0041037E7
+Columbus	1.0015236E7
+Corpus Christi	9956718.0
+Dallas	1.0046601E7
+Denver	1.0011643E7
+Detroit	9959396.0
+Durham	1.0133844E7
+El Paso	9996654.0
+Fort Wayne	1.0112666E7
+Fort Worth	1.01009E7
+Fremont	1.0033201E7
+Fresno	9956460.0
+Garland	1.0051108E7
+Gilbert	1.0042102E7
+Glendale	1.0024532E7
+Greensboro	1.0013882E7
+Henderson	1.0033551E7
+Hialeah	1.0027119E7
+Honolulu	9986526.0
+Houston	1.0022251E7
+Indianapolis	1.0070263E7
+Irvine	1.0064876E7
+Irving	1.0114013E7
+Jacksonville	1.0052065E7
+Jersey City	9900490.0
+Kansas City	9948340.0
+Laredo	1.0124725E7
+Las Vegas	1.0034385E7
+Lexington	1.0064448E7
+Lincoln	1.0049605E7
+Long Beach	9986567.0
+Los Angeles	1.006471E7
+Louisville	9988618.0
+Lubbock	9938428.0
+Madison	1.0012261E7
+Memphis	1.0018622E7
+Mesa	1.0033597E7
+Miami	9927493.0
+Milwaukee	1.0044474E7
+Minneapolis	9991901.0
+Nashville	9941650.0
+New Orleans	9929632.0
+New York	1.0065226E7
+Newark	1.0123961E7
+Norfolk	1.0068749E7
+North Las Vegas	1.0009885E7
+Oakland	9927676.0
+Oklahoma City	1.0098958E7
+Omaha	1.0006756E7
+Orlando	1.0055068E7
+Philadelphia	1.0169803E7
+Phoenix	1.0059121E7
+Pittsburgh	1.0070187E7
+Plano	1.0026195E7
+Portland	9987785.0
+Raleigh	1.0041547E7
+Reno	1.0060065E7
+Richmond	9973117.0
+Riverside	9986864.0
+Rochester	1.0047634E7
+Sacramento	1.0103336E7
+Saint Paul	1.0037274E7
+San Antonio	9994584.0
+San Bernardino	9945355.0
+San Diego	9946264.0
+San Francisco	9975784.0
+San Jose	9916884.0
+Santa Ana	1.0030398E7
+Scottsdale	1.0018065E7
+Seattle	9916610.0
+Spokane	1.0063535E7
+St. Louis	9982219.0
+St. Petersburg	9966660.0
+Stockton	9986689.0
+Tampa	1.0086611E7
+Toledo	1.0000911E7
+Tucson	9978660.0
+Tulsa	1.0045011E7
+Virginia Beach	1.0066691E7
+Washington	1.0119297E7
+Wichita	1.006361E7
+Winston–Salem	1.0024108E7
